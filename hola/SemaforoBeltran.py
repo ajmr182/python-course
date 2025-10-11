@@ -7,4 +7,6 @@ elif color == "amarillo":
 elif color == "verde":
     print("Cruza verdecon cuidado")
 else:
+
+    print("Hola")
     print("Ingresa un color válido")
